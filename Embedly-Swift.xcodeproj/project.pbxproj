@@ -149,10 +149,12 @@
 				TargetAttributes = {
 					44CB64661D9D9C6B00989FF7 = {
 						CreatedOnToolsVersion = 8.0;
+						LastSwiftMigration = 0800;
 						ProvisioningStyle = Automatic;
 					};
 					44CB647A1D9D9C6B00989FF7 = {
 						CreatedOnToolsVersion = 8.0;
+						LastSwiftMigration = 0800;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 44CB64661D9D9C6B00989FF7;
 					};
@@ -408,6 +410,7 @@
 				44CB64861D9D9C6B00989FF7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		44CB64871D9D9C6B00989FF7 /* Build configuration list for PBXNativeTarget "Embedly-SwiftTests" */ = {
 			isa = XCConfigurationList;
@@ -416,6 +419,7 @@
 				44CB64891D9D9C6B00989FF7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
